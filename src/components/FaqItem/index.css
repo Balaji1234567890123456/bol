@@ -1,0 +1,14 @@
+/* Write your code here. */
+.bol {
+  display: flex;
+  justify-content: space-between;
+}
+.lol {
+  border-radius: 10px;
+  border: 1px solid black;
+  margin: 20px;
+}
+hr {
+  width: 1px;
+  border-color: #9aa5b1;
+}
